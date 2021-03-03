@@ -1,0 +1,9 @@
+tp4_olivaarias.c:30:5:main	8	static
+tp4_olivaarias.c:65:13:vSenderTask	32	static
+tp4_olivaarias.c:90:13:vReceiverTask	32	static
+tp4_olivaarias.c:121:6:vApplicationMallocFailedHook	4	static
+tp4_olivaarias.c:129:6:vApplicationStackOverflowHook	16	static
+tp4_olivaarias.c:138:6:vApplicationIdleHook	4	static
+tp4_olivaarias.c:144:6:vApplicationTickHook	4	static
+tp4_olivaarias.c:150:6:vConfigureTimerForRunTimeStats	24	static
+tp4_olivaarias.c:179:6:config_uart	32	static

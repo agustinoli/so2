@@ -1,0 +1,11 @@
+tp4_olivaarias_p2.c:43:5:main	16	static
+tp4_olivaarias_p2.c:73:13:vTaskSensor	32	static
+tp4_olivaarias_p2.c:100:13:vTaskUsuario	40	static
+tp4_olivaarias_p2.c:124:13:vTaskTx	48	dynamic
+tp4_olivaarias_p2.c:154:6:vApplicationMallocFailedHook	8	static
+tp4_olivaarias_p2.c:161:6:vApplicationStackOverflowHook	16	static
+tp4_olivaarias_p2.c:166:6:vApplicationIdleHook	4	static
+tp4_olivaarias_p2.c:171:6:vApplicationTickHook	4	static
+tp4_olivaarias_p2.c:176:6:vConfigureTimerForRunTimeStats	24	static
+tp4_olivaarias_p2.c:203:6:vPinsel_config	16	static
+tp4_olivaarias_p2.c:223:6:vUart_config	24	static
